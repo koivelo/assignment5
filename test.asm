@@ -1,4 +1,3 @@
-# Test file with only supported instructions
 add $t0, $t1, $t2
 addi $t0, $zero, 42
 sub $t1, $t2, $t3
